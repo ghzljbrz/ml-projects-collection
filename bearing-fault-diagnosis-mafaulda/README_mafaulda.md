@@ -108,7 +108,7 @@ pip install numpy pandas scipy scikit-learn matplotlib seaborn gdown PyWavelets
 
 ## 👥 Authors
 
-- [Author 1](https://github.com/<your-username>)
+- [Ghazal Jabbri](https://github.com/ghzljbrz)
 - [Asal Sanei](https://github.com/Asal-Sanei)
 
 ## 📄 License
