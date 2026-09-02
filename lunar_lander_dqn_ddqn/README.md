@@ -79,8 +79,8 @@ Implements and trains:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/ghzljbrz/ml-projects-collection].git
+cd ml-projects-collection
 
 # Install dependencies
 pip install torch gymnasium[box2d] matplotlib pyvirtualdisplay moviepy
