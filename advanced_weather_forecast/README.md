@@ -113,8 +113,8 @@ The more extensive pipeline: classifies hourly readings into one of six AQI heal
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/ghzljbrz/ml-projects-collection].git
+cd ml-projects-collection
 
 # Install dependencies
 pip install pandas numpy scikit-learn scipy matplotlib seaborn cvxopt pyswarm gdown
