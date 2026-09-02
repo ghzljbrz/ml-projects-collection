@@ -102,8 +102,8 @@ Implements the complete pipeline above: data cleaning and encoding, quantile-bas
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/ghzljbrz/ml-projects-collection].git
+cd ml-projects-collection
 
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn gdown
